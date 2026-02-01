@@ -147,11 +147,9 @@ Ethereum, Arbitrum, Base, Polygon, BNB Chain, Solana, Bitcoin, Zcash, TON, Carda
 
 ## Links
 
-- **Website**: [loofta.com](https://loofta.xyz)
-- **Twitter**: [@loofta](https://x.com/lisabeyy)
+- **Website**: [pay.loofta.xyz](https://pay.loofta.xyz)
+- **Twitter**: [@looftapay](https://x.com/looftapay)
 - **Telegram**: [t.me/looftaxyz](https://t.me/looftaxyz)
-- **Privacy Cash**: [privacy.cash](https://privacy.cash/)
-- **Range**: [range.org](https://range.org/)
 
 ## License
 
